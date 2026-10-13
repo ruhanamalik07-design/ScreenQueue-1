@@ -41,7 +41,7 @@ This is the project to demonstrate the development of an ASP.NET Core MVC web ap
 
 ## Author
 
-Student Name: Your Name
+Student Name: Ruhana Malik
 
 Course: COMP 2084 – Server-Side Scripting
 
